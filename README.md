@@ -1,3 +1,3 @@
 # Read me for Git
 
-## Build With $(heart)
+## Build With $(heart) ghost
